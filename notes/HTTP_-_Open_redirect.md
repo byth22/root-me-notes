@@ -44,6 +44,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ## Resposta
 
+http://challenge01.root-me.org/web-serveur/ch52/?url=https://google.com&h=99999ebcfdb78df077ad2727fd00969f
+
 <pre>HTTP/1.1 200 OK
 Server: nginx
 Date: Thu, 30 Jan 2020 20:03:20 GMT
