@@ -1,4 +1,4 @@
-## HTTP - Open redirect 
+# HTTP - Open redirect 
 
 Checando o código fonte, inspecionando elemento ou copiando o link, encontramos:
 
