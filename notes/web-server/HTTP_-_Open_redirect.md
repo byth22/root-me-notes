@@ -62,4 +62,4 @@ Content-Length: 1027
 
 
 <body><link rel='stylesheet' property='stylesheet' id='s' type='text/css' href='/template/s.css' media='all' /><iframe id='iframe' src='https://www.root-me.org/?page=externe_header'></iframe>
-        <p>Well done, the flag is e6f8a530811d5a479812d7b82fc1a5c5</p><script>document.location = 'https://google.com';</script></pre>
+        <p>Well done, the flag is flag_here</p><script>document.location = 'https://google.com';</script></pre>
