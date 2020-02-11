@@ -1,4 +1,4 @@
-# HP - Command injection
+# PHP - Command injection
 
 É possível embutir um segundo comando com ponto e vírgula (;). Então usamos ls para visualizar o arquivo index.php no diretório, cat para lê-lo e depois visualizar a flag pelo código fonte:
 
