@@ -2,7 +2,7 @@
 
 Como o nome do desafio indica um Verb Tampering, é presumível que estamos lidando com o caso em que adulteração do método na requisição permite um bypass.
 
-Uma leitura básica no link sobre [Verb Tampering](https://www.imperva.com/learn/application-security/http-verb-tampering/) do site da Imperva, aprendemos que adultaração arbitrária ou até mesmo utilizando métodos não bloqueados, o bypass é possível em alguns servidores afetados como nos exemplos abaixo utilizando o Intruder do Burp Suit:
+Uma leitura básica no link sobre [Verb Tampering](https://www.imperva.com/learn/application-security/http-verb-tampering/) do site da Imperva, aprendemos que adulteração arbitrária ou até mesmo utilizando métodos não bloqueados, o bypass é possível em alguns servidores afetados como nos exemplos abaixo utilizando o Intruder do Burp Suit:
 
 ## Método não bloqueado:
 <b>Requisição:</b>
